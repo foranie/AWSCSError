@@ -1,0 +1,17 @@
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\bin\Debug\net6.0\AWSLambda1.deps.json
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\bin\Debug\net6.0\AWSLambda1.runtimeconfig.json
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\bin\Debug\net6.0\AWSLambda1.dll
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\bin\Debug\net6.0\AWSLambda1.pdb
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.csproj.AssemblyReference.cache
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.AssemblyInfoInputs.cache
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.AssemblyInfo.cs
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.csproj.CoreCompileInputs.cache
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.csproj.CopyComplete
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.dll
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\refint\AWSLambda1.dll
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.pdb
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\AWSLambda1.genruntimeconfig.cache
+C:\Users\foran\source\repos\AWSLambda1\AWSLambda1\obj\Debug\net6.0\ref\AWSLambda1.dll
